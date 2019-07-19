@@ -1,4 +1,4 @@
-# Cardiomyocyte-Volume-Calculator
+# Cardiomyocyte Volume Calculator
 
 ## IMS Stack to Tiff:
 
